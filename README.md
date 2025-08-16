@@ -1,5 +1,3 @@
-![Snake animation](https://github.com/luigi-guilherme/luigi-guilherme/blob/output/github-contribution-grid-snake.svg)
-
 ## 👋 Hi there! I'm Luigi Guilherme
 
 🎓 I'm currently a **Computer Engineering** student at **Faculdade Engenheiro Salvador Arena**, where I'm diving deeper into the world of technology and software development.
