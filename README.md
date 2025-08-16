@@ -26,4 +26,9 @@
 
 ✨ Feel free to explore my repositories — I'm always learning and evolving as a developer!
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+
+
+
+
+<a href="https://www.linkedin.com/in/luigi-guilherme" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
